@@ -10,6 +10,7 @@ Ferramenta de análise forense para Windows que lê o **BAM/DAM** (Background/De
 - Resolve o caminho do executável (letra de unidade) quando possível
 - Resolve o SID para nome de usuário
 - Exporta os resultados em **CSV** e **JSON**
+- Mostra arquivos deletados
 
 
 
